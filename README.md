@@ -33,5 +33,5 @@ Print that String. Examples:
 ---|---
 brand | brand
 briarwood | br...od
-asanine | asanine
+asinine | asinine
 pneumothorax | pn...ax
